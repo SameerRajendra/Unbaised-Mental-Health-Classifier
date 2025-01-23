@@ -4,9 +4,9 @@ In many real-world applications of machine learning predictive models can inadve
 Therefore I developed a machine learning model that not only achieves high accuracy in its predictions but also ensures fairness, meaning that its decisions are not influenced disproportionately by sensitive attributes. Specifically, we aim to reduce the Demographic Parity Gap, which measures the disparity in positive outcomes (e.g., approvals or classifications) between different demographic groups.
 
 ## Requirenment
-Pandas
-Pytorch
-transformers
-Sklearn
-matplotlib
+-  Pandas
+-  Pytorch
+-  transformers
+-  Sklearn
+-  matplotlib
 
